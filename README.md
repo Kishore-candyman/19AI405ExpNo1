@@ -42,6 +42,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ## PROGRAM:
+
 ```
 import random
 import time
@@ -99,7 +100,9 @@ if __name__ == "__main__":
     agent = HealthMonitoringAgent(patient_data, sensors, actuators)
     agent.monitor_health()
 ```
+
 ## OUTPUT:
 <img width="772" height="135" alt="image" src="https://github.com/user-attachments/assets/84b312bb-6bfe-4906-b771-12f181014de3" />
+
 ## RESULT:
 Hence, the solution for the given AI problem is found.
